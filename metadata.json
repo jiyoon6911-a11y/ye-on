@@ -1,0 +1,7 @@
+{
+  "name": "YE:ON (여수:연)",
+  "description": "A gamified digital tourism platform for Yeosu where tourists become digital navy members of the Jeolla Left Navy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
